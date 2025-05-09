@@ -1,9 +1,9 @@
 {
-	"token": "your token here here", // Your Bot Token.
-	"clientID": "your client id", // Your Bot ID.
+	"token": "your token here here", //MTM3MDM0Nzg5MzE4OTUwOTEyMA.GSUx2E.dGFGUQirYjY-YQ2OpozT-k1gZoC_JNP7mzQgWI .
+	"clientID": "your client id", //1370347893189509120 .
 	"prefix": "r!",
 	"voiceCN": "1050050537774661673", // For connection bot.
-	"Smath": "964194837337362512",  // Owner id 1.
+	"Smath": "964194837337362512",  // Owner id <@1277142365236105257>.
 	"Parzival": "311194511931998209", // Owner id 2.
 	"GuildLogs": "1055773337915236382", // Channle for GuildCreate Logs.
 	"messages": {
